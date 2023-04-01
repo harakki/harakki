@@ -5,7 +5,6 @@ I'm **Dementiy Shipilov**, a 18 years old undergraduate student from Siberia.
 - 👨‍💻 C/C++/Python
 - ⚙️ Git/SQLite/Linux/VIM/Visual Studio Code
 - 🖌️ Adobe Photoshop/Adobe Illustrator
-- ❤️ Sponsor me via [Boosty](./)
 
 <details>
     <summary>Trophies and Statistics</summary>
