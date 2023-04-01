@@ -5,6 +5,7 @@ I'm **Dementiy Shipilov**, a 18 years old undergraduate student from Siberia.
 - 👨‍💻 C/C++/Python
 - ⚙️ Git/SQLite/Linux/VIM/Visual Studio Code
 - 🖌️ Adobe Photoshop/Adobe Illustrator
+- 💭 Ask me anything [here](https://github.com/harakki/harakki/discussions/new)!
 
 <details>
     <summary>Trophies and Statistics</summary>
