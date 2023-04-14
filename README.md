@@ -1,5 +1,5 @@
 ## HI! 👋
-I'm **Dementiy Shipilov**, a 18 years old undergraduate student from Siberia.
+I'm **Dementiy Shipilov**, a 18 years old undergraduate student.
 
 ![Profile views](https://komarev.com/ghpvc/?username=harakki&label=Profile%20views&color=0e75b6&style=for-the-badge&label=Profile+views&color=blue)
 - 👨‍💻 C/C++/Python
