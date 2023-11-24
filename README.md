@@ -11,8 +11,9 @@ You can ask me anything [here](https://github.com/harakki/harakki/discussions/ne
 ![Static Badge](https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 <details>
     <summary>Statistics</summary>
